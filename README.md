@@ -5,5 +5,5 @@ Buildwith:
 -CSS
 -JAVASCRIPT
 
-Solution Link: https://github.com/Kannusounshar/Rock--Paper-and-Scissor-Game
-You can view the live project here: https://chic-taiyaki-6e0a7a.netlify.app
+Solution Link: https://github.com/Kannusounshar/Own-Lorem-Ipsum
+You can view the live project here: https://stellar-monstera-798d92.netlify.app
